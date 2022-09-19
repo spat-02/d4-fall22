@@ -2,8 +2,9 @@
 discussion 4 for fall 22
 
 See the SI 206 Discussion4.pptx for instructions
+Edit the file disc4_starter.py
 
-As you finish each function do the following:
+As you complete each function do the following:
 
 git status # see what has changed and what is being tracked for a commit
 git add disc4_starter.py # track this file
